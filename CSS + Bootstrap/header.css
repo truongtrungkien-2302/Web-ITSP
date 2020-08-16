@@ -1,0 +1,11 @@
+.header{
+    display: inline-block;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(226, 211, 211);
+    display: inline-block;
+}
+.header ul li a{
+    color: black;
+}
